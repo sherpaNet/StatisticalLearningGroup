@@ -26,7 +26,7 @@ We are planning to meet every second wednesday at noon beginning April 3. Lunch 
 | May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |
 | May. 15<sup>th</sup>     | Computational Anatomy                          | Matthias     |
 | May. 29<sup>th</sup>     | Reinforcement Learning                         | Anthony      |
-| Jun. 12<sup>th</sup>     | Recurrent Neural Networks                      | Anup/Ahn?    |
+| Jun. 12<sup>th</sup>     | Recurrent Neural Networks                      | Anup/or?    |
 | Jun. 26<sup>th</sup>     | Generative Models                              | Anup         |
 | Jul. 10<sup>th</sup>     | Bayesian Inference                             | David        |
 | Jul. 24<sup>th</sup>     | Probabilistic Graphical Models                 | Nagesh       |
